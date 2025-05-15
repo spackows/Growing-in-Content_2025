@@ -18,7 +18,7 @@ Supporting material for a presentation at [Growing In Content 2025](https://work
 - [The API wars are upon us](https://medium.com/@sarah-packowski/the-api-wars-are-upon-us-ee24c5682065)
 
 **Other presentations, workshops, and papers**
-- [Question-driven development at ConVEx 2025](https://github.com/spackows/ConVEx-2025)
+- [Question-driven content development at ConVEx 2025](https://github.com/spackows/ConVEx-2025)
 - [Optimizing and Evaluating RAG at ICAAI 2024](https://github.com/spackows/ICAAI-2024_RAG-CD)
 - [Natural language interfaces at CASCON 2024](https://github.com/spackows/CASCON-2024_NL-interfaces)
 
