@@ -17,6 +17,9 @@ This presentation dives into content strategy for RAG and agentic solutions, and
 **Slides**
 - [Growing-In_content-slides_2025-03-21.pdf](Growing-In_content-slides_2025-03-21.pdf)
 
+**Video**
+- [Presentation recording (YouTube)](https://youtu.be/wspyDIN_cug)
+
 **Blog posts**
 - [Question-driven content design](https://medium.com/@sarah-packowski/question-driven-content-design-ba373215e634)
 - [Testing RAG knowledge base content](https://medium.com/@sarah-packowski/testing-rag-knowledge-base-content-1339511aeaa2)
